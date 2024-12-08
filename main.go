@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	log := src.Level2Task2()
+	log := src.Level3Task2()
 	println(log)
 }
